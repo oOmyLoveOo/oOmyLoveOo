@@ -1,124 +1,136 @@
-<h1 align="center"><b>Hi, I'm Wuke Zhang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+import React from 'react';
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer+in+Training;Aspiring+MERN+Full-Stack+Developer;Passionate+about+Continuous+Learning;Solving+Problems+Creatively;Welcome+to+my+profile!</a>
-</p>
+const GitHubProfile = () => {
+  return (
+    <div className="markdown-body max-w-4xl mx-auto p-4">
+      <div className="text-center mb-8">
+        <h1 className="text-3xl font-bold flex items-center justify-center gap-2">
+          Hi, I'm Wuke Zhang
+          <img 
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+            alt="wave" 
+            className="w-8 h-8"
+          />
+        </h1>
+        
+        <p className="text-lg text-gray-600 mt-4">
+          Front-End Developer in Training | Aspiring MERN Full-Stack Developer | 
+          Passionate about Continuous Learning | Solving Problems Creatively
+        </p>
+      </div>
 
-<br>
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold flex items-center gap-2 mb-4">
+          <img 
+            src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
+            alt="about me" 
+            className="w-8 h-8"
+          />
+          About Me
+        </h2>
+        <ul className="list-disc pl-6 space-y-2">
+          <li>🌱 <strong>In training</strong> as a Full-Stack Developer specializing in the <strong>MERN stack</strong></li>
+          <li>🛠️ Working on <strong>personal projects</strong> to strengthen technical skills</li>
+          <li>🎓 Passionate about <strong>continuous learning</strong> and problem-solving</li>
+          <li>💼 Seeking opportunities as an <strong>intern</strong> or in a professional environment</li>
+          <li>🌟 Focused on creating functional and attractive applications</li>
+        </ul>
+      </section>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold flex items-center gap-2 mb-4">
+          <img 
+            src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" 
+            alt="skills" 
+            className="w-8 h-8"
+          />
+          Technical Skills
+        </h2>
+        
+        <div className="space-y-6">
+          <div>
+            <h3 className="text-xl font-semibold mb-2">Languages</h3>
+            <div className="flex flex-wrap gap-2">
+              <span className="px-3 py-1 bg-yellow-100 text-yellow-800 rounded">JavaScript</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">C++ (In Progress)</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">TypeScript (In Progress)</span>
+              <span className="px-3 py-1 bg-orange-100 text-orange-800 rounded">Rust (Desired)</span>
+            </div>
+          </div>
 
-<br>
+          <div>
+            <h3 className="text-xl font-semibold mb-2">Front-End Development</h3>
+            <div className="flex flex-wrap gap-2">
+              <span className="px-3 py-1 bg-red-100 text-red-800 rounded">HTML5</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">CSS3</span>
+              <span className="px-3 py-1 bg-cyan-100 text-cyan-800 rounded">React</span>
+              <span className="px-3 py-1 bg-teal-100 text-teal-800 rounded">TailwindCSS</span>
+            </div>
+          </div>
 
-- 🌱 **In training** as a Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).
-- 🛠️ Working on **personal projects** to strengthen technical skills and apply best development practices.
-- 🎓 Passionate about **continuous learning** and motivated to solve problems with creative and functional solutions.
-- 💼 Looking for opportunities as an **intern** or in a professional environment to demonstrate my skills.
-- 🌟 Focused on creating functional and attractive applications.
+          <div>
+            <h3 className="text-xl font-semibold mb-2">Back-End Development</h3>
+            <div className="flex flex-wrap gap-2">
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">Node.js (In Progress)</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">Express.js (In Progress)</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">MongoDB (In Progress)</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">MySQL</span>
+            </div>
+          </div>
 
-<br><br>
+          <div>
+            <h3 className="text-xl font-semibold mb-2">Software & Tools</h3>
+            <div className="flex flex-wrap gap-2">
+              <span className="px-3 py-1 bg-orange-100 text-orange-800 rounded">Git</span>
+              <span className="px-3 py-1 bg-gray-100 text-gray-800 rounded">GitHub</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">VS Code</span>
+              <span className="px-3 py-1 bg-cyan-100 text-cyan-800 rounded">Docker</span>
+              <span className="px-3 py-1 bg-gray-100 text-gray-800 rounded">WordPress</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">Cisco</span>
+            </div>
+          </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+          <div>
+            <h3 className="text-xl font-semibold mb-2">Operating Systems</h3>
+            <div className="flex flex-wrap gap-2">
+              <span className="px-3 py-1 bg-yellow-100 text-yellow-800 rounded">Linux</span>
+              <span className="px-3 py-1 bg-orange-100 text-orange-800 rounded">Ubuntu</span>
+              <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded">Windows</span>
+            </div>
+          </div>
+        </div>
+      </section>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Technical Skills</b>
-<br>
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold flex items-center gap-2 mb-4">
+          <img 
+            src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" 
+            alt="connect" 
+            className="w-8 h-8"
+          />
+          Connect with me
+        </h2>
+        <div className="flex flex-wrap gap-4">
+          <a href="mailto:wuke.zhang@example.com" className="text-red-600 hover:text-red-800">
+            <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+          </a>
+          <a href="https://github.com/WukeZhang" className="text-gray-800 hover:text-gray-600">
+            <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+          <a href="https://www.linkedin.com/in/WukeZhang/" className="text-blue-600 hover:text-blue-800">
+            <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+          <a href="https://wa.me/1234567890" className="text-green-600 hover:text-green-800">
+            <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+          </a>
+        </div>
+      </section>
 
-<p align="center">
+      <footer className="text-center mt-8">
+        <h2 className="text-2xl font-bold">Thank you for visiting my profile! 🌟</h2>
+      </footer>
+    </div>
+  );
+};
 
-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> **Languages**:
-    
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![C++ (In Progress)](https://img.shields.io/badge/C++-In%20Progress-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![TypeScript (In Progress)](https://img.shields.io/badge/TypeScript-In%20Progress-blue?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Rust (Desired)](https://img.shields.io/badge/Rust-%20Desired-orange?style=for-the-badge&logo=rust&logoColor=white)
-
-<br>   
-    
-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> **Front-End Development**:
-  
-    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br>
-
-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> **Back-End Development**:
-
-    ![Node.js (In Progress)](https://img.shields.io/badge//Node.js-In%20Progress-blue?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Express.js (In Progress)](https://img.shields.io/badge/Express.js-In%20Progress-blue?style=for-the-badge&logo=express&logoColor=white)
-    ![MongoDB (In Progress)](https://img.shields.io/badge/MongoDB-In%20Progress-blue?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    
-<br>
-
-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> **Software & Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![WordPress](https://img.shields.io/badge/WordPress-%233C3C3C.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-    ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-
-<br>
-
-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> **Operating Systems**:
-
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</p>
-
-<br>
-
------
-
-<br>
-
-## <b> Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="mailto:wuke.zhang@example.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://github.com/WukeZhang" target="_blank">
-<img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.linkedin.com/in/WukeZhang/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://wa.me/1234567890" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-</li>
-
-</ul>
-
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-## <b>Thank you for visiting my profile! 🌟</b>
+export default GitHubProfile;
