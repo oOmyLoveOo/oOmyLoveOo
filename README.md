@@ -45,7 +45,7 @@
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> **Back-End Development**:
 
-    ![Node.js (In Progress)](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Node.js (In Progress)](https://img.shields.io/badge//Node.js-In%20Progress-blue?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js (In Progress)](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
     ![MongoDB (In Progress)](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
