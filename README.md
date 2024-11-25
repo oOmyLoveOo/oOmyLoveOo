@@ -71,7 +71,7 @@
 <ul>
 
 <li>
-<a href="ukesan2005@gmail.com" target="_blank">
+<a href="https://ukesan2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </li>
