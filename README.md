@@ -29,7 +29,6 @@
     ![TypeScript (In Progress)](https://img.shields.io/badge/TypeScript-In%20Progress-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![Rust (Desired)](https://img.shields.io/badge/Rust-%20Desired-orange?style=for-the-badge&logo=rust&logoColor=white)
 
-<br>   
     
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> **Front-End Development**:
   
@@ -38,7 +37,6 @@
     ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> **Back-End Development**:
 
@@ -47,7 +45,6 @@
     ![MongoDB (In Progress)](https://img.shields.io/badge/MongoDB-In%20Progress-blue?style=for-the-badge&logo=mongodb&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
-<br>
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> **Software & Tools**:
 
@@ -58,7 +55,6 @@
     ![WordPress](https://img.shields.io/badge/WordPress-%233C3C3C.svg?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-<br>
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> **Operating Systems**:
 
