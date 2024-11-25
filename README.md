@@ -14,8 +14,6 @@
 - 💼 Looking for opportunities as an **intern** or in a professional environment to demonstrate my skills.
 - 🌟 Focused on creating functional and attractive applications.
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Technical Skills</b>
