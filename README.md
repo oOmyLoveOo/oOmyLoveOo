@@ -1,19 +1,28 @@
 <h1 align="center"><b>Hi, I'm Wuke Zhang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer+in+Training;Aspiring+MERN+Full-Stack+Developer;Passionate+about+Continuous+Learning;Solving+Problems+Creatively;Welcome+to+my+profile!</a>
 </p>
+
 <br>
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
 <br>
+
 - 🌱 **In training** as a Full-Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 - 🛠️ Working on **personal projects** to strengthen technical skills and apply best development practices.
 - 🎓 Passionate about **continuous learning** and motivated to solve problems with creative and functional solutions.
 - 💼 Looking for opportunities as an **intern** or in a professional environment to demonstrate my skills.
 - 🌟 Focused on creating functional and attractive applications.
-<br>
+
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Technical Skills</b>
 <br>
+
 <p align="center">
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> **Languages**:
@@ -61,39 +70,55 @@
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </p>
+
 <br>
+
 -----
+
 <br>
+
 ## <b> Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 <div align='left'>
+
 <ul>
+
 <li>
 <a href="mailto:wuke.zhang@example.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </li>
+
 <br>
+
 <li>
 <a href="https://github.com/WukeZhang" target="_blank">
 <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </li>
+
 <br>
+
 <li>
 <a href="https://www.linkedin.com/in/WukeZhang/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </li>
+
 <br>
+
 <li>
 <a href="https://wa.me/1234567890" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </li>
+
 </ul>
+
 </div>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
 ## <b>Thank you for visiting my profile! 🌟</b>
