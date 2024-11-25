@@ -28,13 +28,16 @@
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![C++ (In Progress)](https://img.shields.io/badge/C++-In%20Progress-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![TypeScript (In Progress)](https://img.shields.io/badge/TypeScript-In%20Progress-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
     
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> **Front-End Development**:
   
-   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -45,6 +48,8 @@
     ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![GraphQL (In Progress)](https://img.shields.io/badge/GraphQL-In%20Progress-blue?style=for-the-badge&logo=graphql&logoColor=pink)
+    ![Prisma (In Progress)](https://img.shields.io/badge/Prisma-In%20Progress-blue?style=for-the-badge&logo=prisma&logoColor=white)
     
 <br>
 
@@ -101,6 +106,14 @@
 </a>
 </li>
 
+<br>
+
+<li>
+<a href="https://wa.me/1234567890" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+</li>
+
 </ul>
 
 </div>
@@ -108,17 +121,3 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>Thank you for visiting my profile! 🌟</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
