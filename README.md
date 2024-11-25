@@ -71,7 +71,7 @@
 <ul>
 
 <li>
-<a href="mailto:wuke.zhang@example.com" target="_blank">
+<a href="mailto:ukesan2005@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </li>
@@ -79,7 +79,7 @@
 <br>
 
 <li>
-<a href="https://github.com/WukeZhang" target="_blank">
+<a href="https://github.com/oOmyloveOo" target="_blank">
 <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </li>
@@ -87,7 +87,7 @@
 <br>
 
 <li>
-<a href="https://www.linkedin.com/in/WukeZhang/" target="_blank">
+<a href="https://www.linkedin.com/in/wuke-zhang-21264133a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </li>
@@ -95,7 +95,7 @@
 <br>
 
 <li>
-<a href="https://wa.me/1234567890" target="_blank">
+<a href="https://wa.me/640029349" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </li>
