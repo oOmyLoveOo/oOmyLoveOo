@@ -4,10 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer+in+Training;Aspiring+MERN+Full-Stack+Developer;Passionate+about+Continuous+Learning;Solving+Problems+Creatively;Welcome+to+my+profile!</a>
 </p>
                                                                 
-![](https://komarev.com/ghpvc/?username=DiegoPastrana25)
-
-![GitHub followers](https://img.shields.io/github/followers/DiegoPastrana25)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48D93C&random=false&width=485&height=58&lines=Network+Computer+Systems+Administration)](https://git.io/typing-svg)
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
