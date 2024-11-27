@@ -23,7 +23,7 @@
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![C++ (In Progress)](https://img.shields.io/badge/C++-In%20Progress-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++-?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![TypeScript (In Progress)](https://img.shields.io/badge/TypeScript-In%20Progress-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![Rust (Desired)](https://img.shields.io/badge/Rust-%20Desired-orange?style=for-the-badge&logo=rust&logoColor=white)
 
