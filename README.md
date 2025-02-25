@@ -44,6 +44,7 @@
     ![Express.js (In Progress)](https://img.shields.io/badge/Express.js-In%20Progress-blue?style=for-the-badge&logo=express&logoColor=white)
     ![MongoDB (In Progress)](https://img.shields.io/badge/MongoDB-In%20Progress-blue?style=for-the-badge&logo=mongodb&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL (In Progress)](https://img.shields.io/badge/PostgreSQL-In%20Progress-blue?style=for-the-badge&logo=postgresql&logoColor=white)
     
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> **Software & Tools**:
