@@ -26,7 +26,7 @@
     
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![C++ (In Progress)](https://img.shields.io/badge/C++-In%20Progress-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![TypeScript (In Progress)](https://img.shields.io/badge/TypeScript-In%20Progress-blue?style=for-the-badge&logo=typescript&logoColor=white)
+    ![TypeScript (Learning)](https://img.shields.io/badge/TypeScript-In%20Progress-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![Rust (Desired)](https://img.shields.io/badge/Rust-%20Desired-orange?style=for-the-badge&logo=rust&logoColor=white)
 
     
@@ -40,11 +40,11 @@
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> **Back-End Development**:
 
-    ![Node.js (In Progress)](https://img.shields.io/badge//Node.js-In%20Progress-blue?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Express.js (In Progress)](https://img.shields.io/badge/Express.js-In%20Progress-blue?style=for-the-badge&logo=express&logoColor=white)
-    ![MongoDB (In Progress)](https://img.shields.io/badge/MongoDB-In%20Progress-blue?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Node.js (Learning)](https://img.shields.io/badge//Node.js-In%20Progress-blue?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Express.js (Learning)](https://img.shields.io/badge/Express.js-In%20Progress-blue?style=for-the-badge&logo=express&logoColor=white)
+    ![MongoDB (Learning)](https://img.shields.io/badge/MongoDB-In%20Progress-blue?style=for-the-badge&logo=mongodb&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![PostgreSQL (In Progress)](https://img.shields.io/badge/PostgreSQL-In%20Progress-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![PostgreSQL (Learning)](https://img.shields.io/badge/PostgreSQL-In%20Progress-blue?style=for-the-badge&logo=postgresql&logoColor=white)
     
 
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> **Software & Tools**:
