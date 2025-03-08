@@ -85,15 +85,15 @@
 
 <li>
 <a href="https://github.com/oOmyloveOo" target="_blank">
-<img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://www.linkedin.com/in/wuke-zhang-21264133a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/wuke-zhang-21264133a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </li>
 
@@ -101,7 +101,7 @@
 
 <li>
 <a href="https://wa.me/640029349" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </li>
 
