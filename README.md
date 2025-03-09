@@ -93,7 +93,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/wuke-zhang-21264133a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
 </a>
 </li>
 
