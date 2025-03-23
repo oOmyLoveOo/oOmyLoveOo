@@ -54,7 +54,7 @@
     ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![AWS S3](https://img.shields.io/badge/Amazon%20S3-%23FF4F8B.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+    ![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-%233C3C3C.svg?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
     ![Figma (Desired)](https://img.shields.io/badge/Figma-Desired-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
