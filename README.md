@@ -26,6 +26,7 @@
     
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
     ![TypeScript (Learning)](https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![Rust (Desired)](https://img.shields.io/badge/Rust-%20Desired-orange?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -53,12 +54,12 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-%233C3C3C.svg?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
     ![Figma (Desired)](https://img.shields.io/badge/Figma-Desired-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 
