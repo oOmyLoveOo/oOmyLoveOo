@@ -59,8 +59,7 @@
     ![Figma (Desired)](https://img.shields.io/badge/Figma-Desired-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![AWS S3](https://img.shields.io/badge/Amazon%20S3-%23FF4F8B.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
-    ![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
     [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 
