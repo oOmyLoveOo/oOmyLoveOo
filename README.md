@@ -89,7 +89,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   <a href="https://github.com/oOmyloveOo" target="_blank">
-    <img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" width="52" height="40" alt="github logo" />
+    <img src="[https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png](https://dn721804.ca.archive.org/0/items/github-readme-icons/github-icon.png)" width="52" height="40" alt="github logo" />
   </a>
 </div>
 
