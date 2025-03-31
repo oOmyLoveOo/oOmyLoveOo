@@ -100,7 +100,7 @@
 [![CodeWars Badge](https://www.codewars.com/users/oOmyloveOo/badges/small)](https://www.codewars.com/users/oOmyloveOo)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=oOmyLoveOo.oOmyLoveOo&"  />
 </div>
 
 ## <b>Thank you for visiting my profile! 🌟</b>
