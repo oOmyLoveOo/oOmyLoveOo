@@ -28,6 +28,7 @@
     ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
     ![TypeScript (Learning)](https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge&logo=typescript&logoColor=white)
+    ![Python (Learning)](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python&logoColor=white)
     ![Rust (Desired)](https://img.shields.io/badge/Rust-%20Desired-orange?style=for-the-badge&logo=rust&logoColor=white)
 
     
