@@ -28,6 +28,9 @@
     ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white)
     ![Metasploit](https://img.shields.io/badge/Metasploit-0D47A1?style=for-the-badge&logo=metasploit&logoColor=white)
     ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+    ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-thebadge&logo=microsoftazure&logoColor=white)
+    ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge)
+    ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge)
     
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> **Programming & Scripting**:
   
@@ -49,6 +52,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+    ![KVM/QEMU](https://img.shields.io/badge/KVM%2FQEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
     
 - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> **Operating Systems**:
 
