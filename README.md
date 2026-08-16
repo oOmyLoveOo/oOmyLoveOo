@@ -12,7 +12,8 @@
 - 🐧 Daily **Arch Linux** user with a strong background in System Administration and DevOps.
 - ⚔️ Passionate about **Offensive Security, Red Teaming, and Penetration Testing**.
 - 🛠️ Dedicated to building security tools, managing a KVM/QEMU homelab, and participating in CTFs.
-- 💼 Actively seeking **Graduate Cyber Security** or **Junior Pentester** roles in the UK.
+- 💼 Actively seeking **Graduate Cyber Security** or **Junior Pentester** roles.
+- 🏆 HackTheBox — Level 70 | HTB CPTS — exam completed, results pending.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -66,7 +67,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wuke-zhang-21264133a/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/wukezhang/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <a href="mailto:ukesan2005@gmail.com" target="_blank">
