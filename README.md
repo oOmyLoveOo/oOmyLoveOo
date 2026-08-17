@@ -8,7 +8,7 @@
 
 <br>
 
-- 🎓 Final-year **BSc Cyber Security** student at York St John University (UK).
+- 🎓 Graduated **BSc Cyber Security** student at York St John University (UK).
 - 🐧 Daily **Arch Linux** user with a strong background in System Administration and DevOps.
 - ⚔️ Passionate about **Offensive Security, Red Teaming, and Penetration Testing**.
 - 🛠️ Dedicated to building security tools, managing a KVM/QEMU homelab, and participating in CTFs.
