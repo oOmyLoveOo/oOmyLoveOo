@@ -13,7 +13,7 @@
 - ⚔️ Passionate about **Offensive Security, Red Teaming, and Penetration Testing**.
 - 🛠️ Dedicated to building security tools, managing a KVM/QEMU homelab, and participating in CTFs.
 - 💼 Actively seeking **Graduate Cyber Security** or **Junior Pentester** roles.
-- 🏆 HackTheBox — Level 70 | HTB CPTS — exam completed, results pending.
+- 🏆 HackTheBox — Level 70 | HTB CPTS — HTB CPTS — Certified (ID: HTBCERT-8C8AEE2C22).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
